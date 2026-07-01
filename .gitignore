@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+.next/
+out/
+.DS_Store
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# Certificates (do not commit)
+*.pem
+*.crt
+*.der
+*.p7b
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Database
+*.db
+*.sqlite
+
+# Docker
+.dockerignore
